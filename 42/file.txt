@@ -1,0 +1,3 @@
+Hello, World!
+Hello, World! And welcome to Bash tutorial! Are you serious about learning Bash?
+What's problem with you, man?
